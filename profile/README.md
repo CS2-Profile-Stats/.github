@@ -1,6 +1,6 @@
 # CS2 Profile Stats
 Extension that allows you to see player's statistics from Steam, Leetify and FaceIT right in their Steam profile.  
-Comes for firefox and chrome, while also possible to install in your steam client without any plugins.
+Comes for Firefox and Chrome, while also possible to install in your Steam client without any plugins.
 
 ## Links
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/cs2-profile-stats  
