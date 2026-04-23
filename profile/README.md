@@ -6,6 +6,8 @@ Comes for Firefox and Chrome, while also possible to install in your Steam clien
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/cs2-profile-stats  
 Chrome: https://chromewebstore.google.com/detail/cs2-profile-stats/cdjdnohbfomlobiemcceejdnobfgnpje
 
+Discord for help or discussion: https://discord.gg/3Emq2AdUSa
+
 ## Steam installation
 
 #### Millennium (recommended)
