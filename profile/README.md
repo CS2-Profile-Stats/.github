@@ -16,8 +16,6 @@ Discord for help or discussion: https://discord.gg/3Emq2AdUSa
 - Open Extendium, click `Install extension`, enter `https://chromewebstore.google.com/detail/cs2-profile-stats/cdjdnohbfomlobiemcceejdnobfgnpje` and click `Install`.
 
 #### Vanilla
-> [!WARNING]
-> Vanilla installation doesn't support auto updates.
 - Open any link in a new tab in your Steam client.
 - Enter `https://chromewebstore.google.com/detail/cs2-profile-stats/cdjdnohbfomlobiemcceejdnobfgnpje` and press enter.
 - Click `Add to Chrome`, you will be prompted to save the extension file.
